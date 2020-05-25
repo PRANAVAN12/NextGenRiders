@@ -1,2 +1,0 @@
-# NextGenRiders
-Java Web App
